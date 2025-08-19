@@ -1,7 +1,7 @@
-<h4 align="center">Esse sou eu!</h4>
+<h1 align="center">Esse sou eu!</h1>
 <div>
 
-<h2>Sou estudande de sistemas, estudo no senai Paulo Antônio Skaf. Tenho habilidade nas seguintes linguagens:</h2>
+<h3>Sou estudande de sistemas, estudo no senai Paulo Antônio Skaf. Tenho habilidade nas seguintes linguagens:</h3>
   -  C++
   -  html 
   -  CSS
