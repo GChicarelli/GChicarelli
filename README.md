@@ -1,20 +1,28 @@
 <h1 align="center">Esse sou eu!</h1>
 <div>
 
-<h3>Sou estudande de sistemas, estudo no senai Paulo Antônio Skaf. Tenho habilidade nas seguintes linguagens:</h3>
-  -  C++
-  -  html 
-  -  CSS
-
 
 <h3>Algumas curiosidades minhas</h3>
-  - 🏎️ Apaixonado por carros
 
-  - 💻 Estudante de **DEV** (desenvolvimento de sistemas)
+  -  🏎️ Apaixonado por carros
 
-  - 🏫 Ensino médio conclúido (2024)
+  -  💻 Estudante de **DEV** (desenvolvimento de sistemas)
 
-  - 😍 Apaixonado (2025 - ♾️)
+  -  🏫 Ensino médio conclúido (2024)
 
-  - ➕ 3 anos de Kumon 
+  -  😍 Apaixonado (2025 - ♾️)
+
+  -  ➕ 3 anos de Kumon 
 </div>
+
+##
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30px"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30px"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="30px"/><br>
+
+  
+</p>
