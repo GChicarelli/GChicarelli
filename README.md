@@ -28,8 +28,20 @@
 </p>
 
 ##
+
+<h3 align="center">📊 Estatísticas</h3>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GChicarelli&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GChicarelli&layout=compact&theme=tokyonight" />
+</div>
+
+##
+
 <div align="center">
   <a href="https://www.linkedin.com/in/giuliano-chicarelli-900610355/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+
