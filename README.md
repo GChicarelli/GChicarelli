@@ -33,7 +33,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GChicarelli&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GChicarelli&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GChicarelli&layout=compact&theme=tokyonight&hide=Makefile,Processing,CMake,Shell,C" />
 </div>
 
 ##
