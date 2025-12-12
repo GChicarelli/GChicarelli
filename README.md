@@ -8,8 +8,6 @@
 
   -  🏫 Ensino médio conclúido (2024)
 
-  -  😍 Apaixonado (2025 - ♾️)
-
   -  ➕ 3 anos de Kumon 
 </div>
 
