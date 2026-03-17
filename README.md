@@ -28,8 +28,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GChicarelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GChicarelli&layout=compact&theme=tokyonight&hide=Makefile,Processing,CMake,Shell,C"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GChicarelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&title_color=8000FF&icon_color=8000FF&text_color=FFFFFF&bg_color=90,000000,400080&border-radius=10&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GChicarelli&layout=compact&theme=tokyonight&hide=Makefile,Processing,CMake,Shell,C&&title_color=8000FF&text_color=FFFFFF&bg_color=90,000000,400080&border-radius=10&hide_border=true"/>
 </p>
 
 ---
